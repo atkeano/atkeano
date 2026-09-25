@@ -9,7 +9,7 @@
   
   
 
-I am also founder and a core team member of the [Orion Gateway](https://github.com/orion-gateway/orion) project.
+I am also a founder and core team member of the [Arion Gateway](https://github.com/arion-gateway/arion) project.
   
   
 
